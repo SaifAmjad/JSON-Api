@@ -1,5 +1,6 @@
 
 {
+  {
   "posts": [
     {
       "id": 1,
@@ -21,4 +22,8 @@
       "title": "COD warfare",
       "description":"Its a first shooter game"
     }
-  ]
+  ],
+   "profile": {
+    "name": "typicode"
+  }
+}
