@@ -3,10 +3,22 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "halo 3",
+      "description":"Its a good game"
+    },
+    {
+      "id": 2,
+      "title": "Gta 5",
+      "description":"Its a open world game"
+    },
+    {
+      "id": 3,
+      "title": "Max Payne",
+      "description":"Its a open world game"
+    },
+    {
+      "id": 4,
+      "title": "COD warfare",
+      "description":"Its a first shooter game"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
